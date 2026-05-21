@@ -1,7 +1,7 @@
 # Purpose
 This is a website I created to lightheartedly submit my retirement letter to the Alabama Army National Guard in 2024. This site had one purpose: to deliver the PDF stating my intent to retire.  I quickly styled this website on my own from the default React site. 
 
-I utilized React to create the web page and hosted it on AWS using CodeCommit. 
+I utilized React to create the web page and hosted it on AWS using CodeCommit, Amplify, and S3. 
 
 ## Technologies
 
@@ -10,11 +10,14 @@ I utilized React to create the web page and hosted it on AWS using CodeCommit.
 - HTML
 - CSS
 - AWS Code commit
+- AWS S3
+- AWS Amplify
 
 ## Lesson learned
 
 - Working with the DOM router to get the HTML and CSS styling in the correct place and order
 - CSS nesting and hierarchy
+- How to serve files for download
 
 ----
 ### Screen Grab
