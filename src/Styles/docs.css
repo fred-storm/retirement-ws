@@ -1,0 +1,31 @@
+.Docs {
+    width: 100%;
+    height: 90%vh;
+    display: flex;
+    justify-content: top;
+    flex-direction: column;
+}
+
+h2{
+    width: 90%;
+    height: 20vh;
+}
+.test {
+    width: 100%;
+    justify-content: center;
+    
+  }
+  .button1 {
+    background-color: #f1f5f4; /* Green */
+    border: black;
+    color: rgb(3, 3, 3);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .Docs .quit{
+    width: 50%;
+    height: 50%;
+}

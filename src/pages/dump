@@ -1,0 +1,7 @@
+<div className='quit'>
+        <h2 className='heading'> Test pdf </h2>
+            <Document file={quit} >
+            <Page pageNumber={1} />
+            <button onClick={onButtonClick1}>Download PDF</button>
+            </Document>
+    </div>
